@@ -8,6 +8,32 @@
 
 ## 已推送文章列表
 
+##### [[已推送]移动端数据库新王者-Realm React Native详解之略陈固陋爬坡篇(二))](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650357872&idx=1&sn=018d01786b452a36d355a2d059f9d59b#rd)
+
+>作者：[江清清](http://www.lcode.org/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E6%95%B0%E6%8D%AE%E5%BA%93%E6%96%B0%E7%8E%8B%E8%80%85-realm-react-native%E7%89%88%E6%9C%AC%E5%BA%94%E7%94%A8%E8%AF%A6%E8%A7%A3%E4%B9%8B%E7%95%A5%E9%99%88%E5%9B%BA%E9%99%8B/#rd?sukey=3903d1d3b699c208c7ee7220ce357bbc18edad7edc53113a3879ba15da28b6965d3e3b2a2d365eb5b0173f409f46a781)<br/>
+>推送时间:2016-06-2
+
+* 主要会讲解Realm React Native模型表结构创建,属性等相关功能使用讲解。
+
+<hr/>
+
+##### [[已推送]Android开发之Jenkins+Gradle实现持续集成、apk多渠道打包)](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650357872&idx=2&sn=5e30a77c31690a0d7b419ceb16007d43#rd)
+
+>作者：[walid1992](http://blog.csdn.net/walid1992)<br/>
+>推送时间:2016-06-2
+
+* 带领大家实现Android开发Jenkins+Gradle实现持续集成、apk多渠道打包。
+
+<hr/>
+
+##### [[已推送]React-Native分析—JavaScript文件加载过程分析)](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650357847&idx=1&sn=cd31dae70bd7fd477a64b7667a73e836#rd)
+
+>作者：[MegatronKing](http://blog.csdn.net/megatronkings)<br/>
+>推送时间:2016-06-1
+
+* 一起来分析一下React Native Android是如何整合和加载JavaScript文件。
+
+<hr/>
 
 ##### [[已推送]React Native之底层源码分析篇(本文较长,请自备小零食:辣条,啤酒饮料等)](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650357823&idx=1&sn=ddb258d0067f982a02b90fe91cfd6d3f#rd)
 
@@ -66,8 +92,10 @@
 
 ## 说明
 
-本仓库用于记录所有，公众号：hongyangAndroid发出的文章记录，所有文章均为作者本人原创且授权本公众号发布。
+本仓库用于记录所有，公众号：codedev123发出的文章记录，所有文章均为作者本人原创且授权本公众号发布。
 
 如果你有任何意见，无论是记录显示的内容排版等，都可以以issue的形式进行反馈。
 
 如果谁对文章排版，尤其是代码片段的处理有好的经验欢迎联系我，非常感谢！
+
+本README.md内容参考鸿洋Github([[https://github.com/hongyangAndroid](https://github.com/hongyangAndroid))
