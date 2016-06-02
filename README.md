@@ -17,7 +17,7 @@
 
 <hr/>
 
-##### [[已推送]Android开发之Jenkins+Gradle实现持续集成、apk多渠道打包)](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650357872&idx=2&sn=5e30a77c31690a0d7b419ceb16007d43#rd)
+##### [[已推送]Android开发之Jenkins+Gradle实现持续集成、apk多渠道打包](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650357872&idx=2&sn=5e30a77c31690a0d7b419ceb16007d43#rd)
 
 >作者：[walid1992](http://blog.csdn.net/walid1992)<br/>
 >推送时间:2016-06-2
@@ -26,7 +26,7 @@
 
 <hr/>
 
-##### [[已推送]React-Native分析—JavaScript文件加载过程分析)](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650357847&idx=1&sn=cd31dae70bd7fd477a64b7667a73e836#rd)
+##### [[已推送]React-Native分析—JavaScript文件加载过程分析](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650357847&idx=1&sn=cd31dae70bd7fd477a64b7667a73e836#rd)
 
 >作者：[MegatronKing](http://blog.csdn.net/megatronkings)<br/>
 >推送时间:2016-06-1
