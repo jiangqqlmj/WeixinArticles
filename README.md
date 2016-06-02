@@ -11,7 +11,7 @@
 ##### [[已推送]移动端数据库新王者-Realm React Native详解之爬坡续篇1(三)](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650357889&idx=1&sn=d882906dbe249ea36e2b57289c9a7dc7#rd)
 
 >作者：[江清清](http://www.lcode.org/?p=1714)<br/>
->推送时间:2016-06-2
+>推送时间:2016-06-3
 
 * 本篇主要更新数据库的增删改查相关功能,也就是最常用最实用的功能啦。
 
