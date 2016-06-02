@@ -2,37 +2,39 @@
 主要用于记录微信公众号所推送的所有文章，公众号：codedev123
 
 >如果想要得到推送通知可以点下watch或者关注下公众号
+
+<br/>
 <img  src="https://github.com/jiangqqlmj/WeixinArticles/blob/master/qrcode_for_gh_c6208faa1f42_258.jpg" width="200px"/>
 
 ## 已推送文章列表
 
 
-##### [[已推送]Android 轻松的查看与使用hide与internal API ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820284&idx=1&sn=43cbc5cbbf7d67ca3c5d8dc05f6fd4d0#rd)
+##### [[已推送]React Native之底层源码分析篇(本文较长,请自备小零食:辣条,啤酒饮料等)](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650357823&idx=1&sn=ddb258d0067f982a02b90fe91cfd6d3f#rd)
 
->作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+>作者：[showCar](http://blog.csdn.net/u014486880)<br/>
+>推送时间:2016-05-31
+
+* 带领大家源码的角度来分析下React-Native底层的通信机制。
+
+<hr/>
+
+##### [[已推送]移动端数据库新王者-Realm React Native版本应用详解之抛砖引玉入坑篇(一)](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650357761&idx=1&sn=213f761203bfebf7f257738ba2f6c40d#rd)
+
+>作者：[江清清](http://www.lcode.org/)<br/>
 >推送时间:2016-05-30
 
-* 10s迅速实现查看hide,internalAPI以及调用。
-
-<hr/>
-
-##### [[已推送]浅析如何高效的使用MVP](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820273&idx=1&sn=bb390bd5b1b678435ee4ae5014c651d2#rd)
-
->作者：[还不走A](http://blog.csdn.net/dantestones)<br/>
->推送时间:2016-05-27
-
-* 做了一个通用的MVP模板，让MVP更加好用。
+* 本篇博客为Realm React Native应用专题的第一篇，主要会进行介绍一下Realm的一些基础介绍,优缺点以及针对React Native模块Realm的安装配置和使用基础讲解。
 
 <hr/>
 
 
 
-##### [[已推送]探究 LayoutInflater setFactory ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820263&idx=1&sn=f7cbcf70570decc064fa5f05531e2c5d#rd)
+##### [[已推送]Retrofit2源码深度分析（一）](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650357755&idx=1&sn=0d1c92728024233ba6f0423a2b0e412c#rd)
 
->作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
->推送时间:2016-05-26
+>作者：[大大-来自饿了么](http://richardcao.me/2016/05/29/Retrofit2%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%EF%BC%88%E4%B8%80%EF%BC%89/#rd?sukey=3903d1d3b699c208a9af3b8823b70de84413507b803150dd0f296f6c031ebc7def38bd4d6b99092a304d4b4926fd6e63)<br/>
+>推送时间:2016-05-20
 
-* LayoutInflater  setFactory的妙用。
+* Retrofit是非常优秀的网络请求框架。本文将顺着构建请求对象→构建请求接口→发起同步/异步请求的流程，分析retrofit2是如何实现的。
 
 <hr/>
 
