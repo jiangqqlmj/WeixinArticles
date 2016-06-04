@@ -8,6 +8,24 @@
 
 ## 已推送文章列表
 
+##### [[已推送]React Native移植原生Android项目-已更新版本](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650357913&idx=1&sn=965f88884787fb29107f18247765c92b#rd)
+
+>作者：[江清清](http://www.lcode.org/?p=1723)<br/>
+>推送时间:2016-06-4
+
+* 最新React Native移植原生Android应用(官方未更新,最新研究成果)
+
+<hr/>
+
+##### [[已推送]React Native中 Back 键的攻坚实战](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650357913&idx=2&sn=77cd19845ab458b3f814f6d5f345b191#rd)
+
+>作者：[Pober Wong_17](http://www.jianshu.com/p/44e415a3cb0b)<br/>
+>推送时间:2016-06-4
+
+* 源自实战一起来分析处理一下Back键。
+
+<hr/>
+
 ##### [[已推送]移动端数据库新王者-Realm React Native详解之爬坡续篇1(三)](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650357889&idx=1&sn=d882906dbe249ea36e2b57289c9a7dc7#rd)
 
 >作者：[江清清](http://www.lcode.org/?p=1714)<br/>
