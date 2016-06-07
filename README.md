@@ -10,7 +10,7 @@
 
 ##### [[已推送]学习React Native必看的几个开源项目(第一波)](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=502874320&idx=1&sn=c8bc64a95d3f7ab6dbbcece7405877cf#rd)
 
->作者：[江清清](http://www.lcode.org/?p=1736)<br/>
+>作者：[江清清](http://www.lcode.org/%E5%BC%80%E6%BA%90%E5%A4%A7%E6%B3%95/)<br/>
 >推送时间:2016-06-07
 
 * 给大家来一波React Native开源项目!
