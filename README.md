@@ -8,6 +8,15 @@
 
 ## 已推送文章列表
 
+##### [[已推送]带大家一步步开发一个电影数据的App(Movie Fetcher)](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358000&idx=1&sn=cfed226caf7574b0bf5f7bd233827148#rd)
+
+>作者：[江清清](http://www.lcode.org/react-native-movie-fetcher)<br/>
+>推送时间:2016-06-08
+
+* 给大家来一波React Native开源项目!
+
+<hr/>
+
 ##### [[已推送]学习React Native必看的几个开源项目(第一波)](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=502874320&idx=1&sn=c8bc64a95d3f7ab6dbbcece7405877cf#rd)
 
 >作者：[江清清](http://www.lcode.org/%E5%BC%80%E6%BA%90%E5%A4%A7%E6%B3%95/)<br/>
