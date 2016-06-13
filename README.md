@@ -8,6 +8,15 @@
 
 ## 已推送文章列表
 
+##### [[已推送]React Native开发技术周报第十三期](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358060&idx=1&sn=a56ac3ef1e7f32ada96674c6aa8e82a4#rd)
+
+>作者：[江清清](http://www.lcode.org/react-native-week-issue13/)<br/>
+>推送时间:2016-06-12
+
+* 本期有起飞的携程拆包最佳实践,有F8App从配置到各端源码分析,有推荐的优秀RN开源项目,还有更多技术干货文章...
+
+<hr/>
+
 ##### [[已推送]React Native 从入门到源码分析-了解RN百态](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358053&idx=1&sn=42c1f3691b848f571583937db1bcec1b#rd)
 
 >作者：[bestswifter](https://bestswifter.com/react-native/)<br/>
