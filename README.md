@@ -8,10 +8,19 @@
 
 ## 已推送文章列表
 
+##### [[已推送]学习React Native必看的几个开源项目(第二波)](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358073&idx=1&sn=fb2b01f2a39eddef728851b4d9b9ab53#rd)
+
+>作者：[江清清](http://www.lcode.org/study-react-native-opensource-two/)<br/>
+>推送时间:2016-06-14
+
+* 一期已经给大家推荐了一波了，今天我们来推荐第二波~
+
+<hr/>
+
 ##### [[已推送]React Native开发技术周报第十三期](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358060&idx=1&sn=a56ac3ef1e7f32ada96674c6aa8e82a4#rd)
 
 >作者：[江清清](http://www.lcode.org/react-native-week-issue13/)<br/>
->推送时间:2016-06-12
+>推送时间:2016-06-13
 
 * 本期有起飞的携程拆包最佳实践,有F8App从配置到各端源码分析,有推荐的优秀RN开源项目,还有更多技术干货文章...
 
