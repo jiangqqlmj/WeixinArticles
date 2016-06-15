@@ -8,6 +8,15 @@
 
 ## 已推送文章列表
 
+##### [[已推送]React Native封装原生UI组件与『仿QQ』消息滑动删除组件封装(事件篇)](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358084&idx=1&sn=ca0afb4f5b594b05060a23395fd36c37#rd)
+
+>作者：[hiphonezhu](http://www.jianshu.com/p/0b23441d58fc/)<br/>
+>推送时间:2016-06-15
+
+* 之前我们更新过封装UI组件『仿QQ』消息滑动删除组件封装(数据篇)了,但是还需要通过实现事件处理机制。Ok,今天就跟大家一起来分享实现一下事件处理。
+
+<hr/>
+
 ##### [[已推送]学习React Native必看的几个开源项目(第二波)](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358073&idx=1&sn=fb2b01f2a39eddef728851b4d9b9ab53#rd)
 
 >作者：[江清清](http://www.lcode.org/study-react-native-opensource-two/)<br/>
