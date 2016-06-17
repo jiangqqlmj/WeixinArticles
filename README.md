@@ -8,6 +8,16 @@
 
 ## 已推送文章列表
 
+##### [[已推送]超详细React Native实现微信好友/朋友圈分享功能](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358114&idx=1&sn=22ca36d730f0af25f1cc68e3a24c7772#rd)
+
+>作者：[江清清](http://www.lcode.org/?p=1776)<br/>
+>推送时间:2016-06-16
+
+* 现阶段大家在使用React Native开发项目的时候，基本都会使用到微信好友或者微信朋友圈分享功能吧，
+今天我就带大家实现以下RN微信好友以及朋友圈的分享功能。
+
+<hr/>
+
 ##### [[已推送]React Native封装原生UI组件与『仿QQ』消息滑动删除组件封装(事件篇)](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358084&idx=1&sn=ca0afb4f5b594b05060a23395fd36c37#rd)
 
 >作者：[hiphonezhu](http://www.jianshu.com/p/0b23441d58fc/)<br/>
