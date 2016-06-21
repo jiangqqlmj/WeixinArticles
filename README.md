@@ -8,6 +8,15 @@
 
 ## 已推送文章列表
 
+##### [[已推送]最新版本React Native移植iOS原生项目](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358127&idx=1&sn=18f459a8c278f0e94f1fb64208f56114#rd)
+
+>作者：[huxiaoqiao](http://www.lcode.org/?p=1798)<br/>
+>推送时间:2016-06-20
+
+* 重点讲一下如何在原有iOS项目中手工快速集成React Native。
+
+<hr/>
+
 ##### [[已推送]超详细React Native实现微信好友/朋友圈分享功能](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358114&idx=1&sn=22ca36d730f0af25f1cc68e3a24c7772#rd)
 
 >作者：[江清清](http://www.lcode.org/?p=1776)<br/>
