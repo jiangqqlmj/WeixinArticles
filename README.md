@@ -8,6 +8,15 @@
 
 ## 已推送文章列表
 
+##### [[已推送]React Native进阶之Animated动画库详解](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358139&idx=1&sn=229e683272b84deecba3754e7aaf4bf8#rd)
+
+>作者：[江清清](http://www.lcode.org/?p=1800)<br/>
+>推送时间:2016-06-21
+
+* 讲解可以创建非常精细化的动画Animated基础篇
+
+<hr/>
+
 ##### [[已推送]最新版本React Native移植iOS原生项目](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358127&idx=1&sn=18f459a8c278f0e94f1fb64208f56114#rd)
 
 >作者：[huxiaoqiao](http://www.lcode.org/?p=1798)<br/>
