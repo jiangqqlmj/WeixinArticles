@@ -8,10 +8,19 @@
 
 ## 已推送文章列表
 
+##### [[已推送]React Native开源项目-公司移动OA办公客户端](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358145&idx=1&sn=09852c1d27461368afa54f6408549180#rd)
+
+>作者：[talentjiang](http://www.lcode.org/react-native-source-office/)<br/>
+>推送时间:2016-06-23
+
+*   推荐一个真实产品项目,采用React Native开发的移动OA办公客户端,不过有部分接口因为公司私密的原因采用了模拟数据进行开源了。对于新手看一下界面实现以及业务逻辑处理完全足够了,非常不错的项目。
+
+<hr/>
+
 ##### [[已推送]React Native进阶之Animated动画库详解](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358139&idx=1&sn=229e683272b84deecba3754e7aaf4bf8#rd)
 
 >作者：[江清清](http://www.lcode.org/?p=1800)<br/>
->推送时间:2016-06-21
+>推送时间:2016-06-22
 
 * 讲解可以创建非常精细化的动画Animated基础篇
 
