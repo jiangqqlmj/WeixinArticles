@@ -8,6 +8,15 @@
 
 ## 已推送文章列表
 
+##### [[已推送]React Native开发技术周报第十四期-携程大招,学习好项目来袭...](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358149&idx=1&sn=d7ae27612318c2850c0a61e9c8a91ee5#rd)
+
+>作者：[江清清](http://www.lcode.org/react-native-week-issue14/)<br/>
+>推送时间:2016-06-24
+
+*   本期有起飞的携程新大招起飞的节奏,有推荐的优秀RN开源项目,有核心原理分析,还有更多技术干货文章...
+
+<hr/>
+
 ##### [[已推送]React Native开源项目-公司移动OA办公客户端](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358145&idx=1&sn=09852c1d27461368afa54f6408549180#rd)
 
 >作者：[talentjiang](http://www.lcode.org/react-native-source-office/)<br/>
