@@ -8,6 +8,15 @@
 
 ## 已推送文章列表
 
+##### [[已推送]前方高能:一步步教你写StepView（流程指示器）](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358180&idx=1&sn=197b3219bd035880ce373a76027eb1dd#rd)
+
+>作者：[baoyachi](https://github.com/baoyachi/StepView)<br/>
+>推送时间:2016-06-25
+
+*   本文会一步步带着大家实现流程指示器,非常有用哦~
+
+<hr/>
+
 ##### [[已推送]React Native开发技术周报第十四期-携程大招,学习好项目来袭...](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358149&idx=1&sn=d7ae27612318c2850c0a61e9c8a91ee5#rd)
 
 >作者：[江清清](http://www.lcode.org/react-native-week-issue14/)<br/>
