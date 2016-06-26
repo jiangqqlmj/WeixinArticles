@@ -8,6 +8,15 @@
 
 ## 已推送文章列表
 
+##### [[已推送]React Native Animated动画详解-实例篇(这篇就够了)](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358193&idx=1&sn=2f8bd640476df0659d9966f562ab03e0#rd)
+
+>作者：[江清清](http://www.lcode.org/?p=1817)<br/>
+>推送时间:2016-06-26
+
+*   学习完本篇相信大家对于动画库的基本使用应该是没有问题了。
+
+<hr/>
+
 ##### [[已推送]前方高能:一步步教你写StepView（流程指示器）](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358180&idx=1&sn=197b3219bd035880ce373a76027eb1dd#rd)
 
 >作者：[baoyachi](https://github.com/baoyachi/StepView)<br/>
