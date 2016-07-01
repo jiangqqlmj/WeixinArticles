@@ -8,9 +8,18 @@
 
 ## 已推送文章列表
 
+##### [[已推送]React Native模块之Timers(定时器)详解](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358225&idx=1&sn=f07693a4309c67a3296d4271db88e1ea#rd)
+
+>作者：[江清清](http://www.lcode.org/?p=1829)<br/>
+>推送时间:2016-07-2
+
+*     学以致用!!!
+
+<hr/>
+
 ##### [[已推送]福利|好消息,React Native开发竞赛来了~丰厚奖品哦](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358215&idx=1&sn=6e141ca27cf1413c2bfa5bede7b253c1#rd)
 
->作者：[ 爱普云](https://applean.cn)<br/>
+>作者：[爱普云](https://applean.cn)<br/>
 >推送时间:2016-07-1
 
 *     福利,想奖品?想跳槽加薪？OK,机会来了！！！
