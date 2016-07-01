@@ -8,6 +8,15 @@
 
 ## 已推送文章列表
 
+##### [[已推送]福利|好消息,React Native开发竞赛来了~丰厚奖品哦](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358215&idx=1&sn=6e141ca27cf1413c2bfa5bede7b253c1#rd)
+
+>作者：[ 爱普云](https://applean.cn)<br/>
+>推送时间:2016-07-1
+
+*     福利,想奖品?想跳槽加薪？OK,机会来了！！！
+
+<hr/>
+
 ##### [[已推送]干货|React Native iOS源码解析篇(一)](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358211&idx=1&sn=2f0cafaeebd3bf6a87820e6d27fccbfc#rd)
 
 >作者：[折腾范儿の味精](http://awhisper.github.io/)<br/>
