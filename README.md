@@ -8,6 +8,24 @@
 
 ## 已推送文章列表
 
+##### [[已推送]超强通用的React Native Tab控制器使用详解-入门篇](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358285&idx=1&sn=868fccd26c16ac83c84c88cd894dd072#rd)
+
+>作者：[hiphonezhu](http://www.jianshu.com/p/b7788c3d106e)<br/>
+>推送时间:2016-07-6
+
+*     官方给我们提供了Tab控制器,但是那个不是双平台通用的,不过借助开源的力量可以实现通用的Tab控制器效果。
+
+<hr/>
+
+##### [[已推送]干货|速收藏|React Native iOS源码解析篇(二)](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358262&idx=1&sn=5c338a1af0df8f0c4569fb0df355f38d#rd)
+
+>作者：[折腾范儿の味精](http://awhisper.github.io/)<br/>
+>推送时间:2016-07-5
+
+*     上一篇我们更新React Native  iOS源码解析篇(一),该主要分析React Native框架iOS部分的源码,从结构,初始化流程,JS和OC相互调用几部分讲解了一下。但是整体来讲还是理解起来比较抽象的,本篇为姊妹篇让我们可以更清晰的对照学习加深理解。
+
+<hr/>
+
 ##### [[已推送]干货|React Native for Android jsBridge实现原理](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358241&idx=1&sn=6d801b2067a0173d54ea99e00119708a#rd)
 
 >作者：[Desmond Yao](http://blog.desmondyao.com/2016/07/02/rn-bridge/)<br/>
