@@ -8,6 +8,15 @@
 
 ## 已推送文章列表
 
+##### [[已推送]干货|React Native for Android jsBridge实现原理](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358241&idx=1&sn=6d801b2067a0173d54ea99e00119708a#rd)
+
+>作者：[Desmond Yao](http://blog.desmondyao.com/2016/07/02/rn-bridge/)<br/>
+>推送时间:2016-07-4
+
+*     之前更新过iOS版本的初始化流程以及OC和JS相互调用的原理,今天跟大家更新一下Android版本的流程以及原理分析。
+
+<hr/>
+
 ##### [[已推送]React Native开发技术周报第十五期-好项目,视频教程,原理分析文章来袭...](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358228&idx=1&sn=67eb163b414863718cd08ee36f6cdc73#rd)
 
 >作者：[江清清](http://www.lcode.org/react-native-week-issue15/)<br/>
