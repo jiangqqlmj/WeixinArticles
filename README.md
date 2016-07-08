@@ -8,6 +8,15 @@
 
 ## 已推送文章列表
 
+##### [[已推送]超强通用的React Native Tab控制器使用详解-进阶篇](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358305&idx=1&sn=70b27fab7935c40a4aa54cee89e82b9d#rd)
+
+>作者：[hiphonezhu](http://www.jianshu.com/p/b0cfe7f11ee7)<br/>
+>推送时间:2016-07-8
+
+*     官方给我们提供了Tab控制器,但是那个不是双平台通用的,不过借助开源的力量可以实现通用的Tab控制器效果。
+
+<hr/>
+
 ##### [[已推送]超强通用的React Native Tab控制器使用详解-入门篇](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358285&idx=1&sn=868fccd26c16ac83c84c88cd894dd072#rd)
 
 >作者：[hiphonezhu](http://www.jianshu.com/p/b7788c3d106e)<br/>
