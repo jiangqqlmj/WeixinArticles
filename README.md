@@ -8,6 +8,15 @@
 
 ## 已推送文章列表
 
+##### [[已推送]React Native开发技术周报第十七期-每期干货你懂得...](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358309&idx=1&sn=7ba40e7706f7556dbd9708fcbd2ab463#rd)
+
+>作者：[江清清](http://www.lcode.org/react-native-week-issue17)<br/>
+>推送时间:2016-07-18
+
+*     本期有国内React Native入门到实战教学视频,有推荐的优秀RN开源项目,有核心原理分析,还有更多技术干货文章...
+
+<hr/>
+
 ##### [[已推送]React Native开发技术周报第十六期-RN入门到实战视频教程推荐](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358307&idx=1&sn=05279c7c2c3be821dc0c6217083f7019#rd)
 
 >作者：[江清清](http://www.lcode.org/react-native-week-issue16)<br/>
