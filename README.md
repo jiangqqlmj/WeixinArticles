@@ -8,6 +8,15 @@
 
 ## 已推送文章列表
 
+##### [[已推送]React Native开发技术周报第十六期-RN入门到实战视频教程推荐](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358307&idx=1&sn=05279c7c2c3be821dc0c6217083f7019#rd)
+
+>作者：[江清清](http://www.lcode.org/react-native-week-issue16)<br/>
+>推送时间:2016-07-12
+
+*     本期有国内React Native入门到实战教学视频,有推荐的优秀RN开源项目,有核心原理分析,还有更多技术干货文章...
+
+<hr/>
+
 ##### [[已推送]超强通用的React Native Tab控制器使用详解-进阶篇](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358305&idx=1&sn=70b27fab7935c40a4aa54cee89e82b9d#rd)
 
 >作者：[hiphonezhu](http://www.jianshu.com/p/b0cfe7f11ee7)<br/>
