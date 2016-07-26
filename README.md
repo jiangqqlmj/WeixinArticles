@@ -8,6 +8,15 @@
 
 ## 已推送文章列表
 
+##### [[已推送]React Native开源项目-图片展示客户端RN-BiZhi](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358313&idx=1&sn=3305a9048a878c7f4840cd1dbed1d0a6#rd)
+
+>作者：[JasonStu](https://github.com/JasonStu/RN-BiZhi)<br/>
+>推送时间:2016-07-26
+
+*     推荐一个练手项目,图片展示客户端,初学入门学习效果明显,双平台适配。
+
+<hr/>
+
 ##### [[已推送]React Native开发技术周报第十七期-每期干货你懂得...](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358309&idx=1&sn=7ba40e7706f7556dbd9708fcbd2ab463#rd)
 
 >作者：[江清清](http://www.lcode.org/react-native-week-issue17)<br/>
