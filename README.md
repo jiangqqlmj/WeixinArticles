@@ -8,6 +8,15 @@
 
 ## 已推送文章列表
 
+##### [[已推送]React Native开发技术周报第十八期-框架多角度对比,技术文章,优秀开源项目(房产,B站APP,starter等)](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358317&idx=1&sn=b84088ed087abc413c5823cac46ef6b6#rd)
+
+>作者：[江清清](http://www.lcode.org/react-native-week-issue18/)<br/>
+>推送时间:2016-07-28
+
+*     本期有国内React Native框架多角度对比文章,技术干货文章,优秀开源项目(房产,图片管理,B站APP,Starter-App等) 
+
+<hr/>
+
 ##### [[已推送]React Native开源项目-图片展示客户端RN-BiZhi](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358313&idx=1&sn=3305a9048a878c7f4840cd1dbed1d0a6#rd)
 
 >作者：[JasonStu](https://github.com/JasonStu/RN-BiZhi)<br/>
