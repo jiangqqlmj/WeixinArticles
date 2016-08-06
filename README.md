@@ -8,6 +8,15 @@
 
 ## 已推送文章列表
 
+##### [[已推送]React Native开源项目-嘎嘎商城客户端(持续更新中)](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358322&idx=1&sn=c22d6eb5fcad20ec0ca268a95ce1a28f#rd)
+
+>作者：[江清清](https://github.com/jiangqqlmj/GaGaMall)<br/>
+>推送时间:2016-08-06
+
+*     React Native嘎嘎商城客户端,致力于打造一款开源的产品级别开源商城客户端项目
+
+<hr/>
+
 ##### [[已推送]React Native开发技术周报第十八期-框架多角度对比,技术文章,优秀开源项目(房产,B站APP,starter等)](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358317&idx=1&sn=b84088ed087abc413c5823cac46ef6b6#rd)
 
 >作者：[江清清](http://www.lcode.org/react-native-week-issue18/)<br/>
