@@ -8,6 +8,15 @@
 
 ## 已推送文章列表
 
+##### [[已推送][RN实战-嘎嘎商城]之仿快递时间轴布局实现(订单状态)](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358330&idx=1&sn=7270f76376d197de3c6d4052b9d0d5a1#rd)
+
+>作者：[江清清](http://www.lcode.org/?p=1855)<br/>
+>推送时间:2016-08-09
+
+*     本文带你用React Native快速实现仿快递时间轴的效果-用于订单状态显示
+
+<hr/>
+
 ##### [[已推送]React Native开源项目-嘎嘎商城客户端(持续更新中)](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358322&idx=1&sn=c22d6eb5fcad20ec0ca268a95ce1a28f#rd)
 
 >作者：[江清清](https://github.com/jiangqqlmj/GaGaMall)<br/>
