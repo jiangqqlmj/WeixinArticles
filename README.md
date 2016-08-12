@@ -8,6 +8,15 @@
 
 ## 已推送文章列表
 
+##### [[已推送]React Native实战之轻松实现通用Tab底部菜单导航栏切换效果](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358341&idx=1&sn=02d124033d7166e7067dd355bcd563dd#rd)
+
+>作者：[江清清](http://www.lcode.org/?p=1857)<br/>
+>推送时间:2016-08-12
+
+*     本文带你用React Native轻松实现Tab底部菜单导航栏切换的效果
+
+<hr/>
+
 ##### [[已推送][RN实战-嘎嘎商城]之仿快递时间轴布局实现(订单状态)](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358330&idx=1&sn=7270f76376d197de3c6d4052b9d0d5a1#rd)
 
 >作者：[江清清](http://www.lcode.org/?p=1855)<br/>
