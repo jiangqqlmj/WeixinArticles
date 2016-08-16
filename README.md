@@ -8,6 +8,15 @@
 
 ## 已推送文章列表
 
+##### [[已推送]React Native开源项目-云翻译客户端](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358347&idx=1&sn=97c7e046b6e92c895b4d4987f034094f#rd)
+
+>作者：[eesc88](https://github.com/eesc88/programmer)<br/>
+>推送时间:2016-08-16
+
+*     推荐一个练手项目,云翻译客户端
+
+<hr/>
+
 ##### [[已推送]React Native实战之轻松实现通用Tab底部菜单导航栏切换效果](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358341&idx=1&sn=02d124033d7166e7067dd355bcd563dd#rd)
 
 >作者：[江清清](http://www.lcode.org/?p=1857)<br/>
