@@ -8,6 +8,24 @@
 
 ## 已推送文章列表
 
+##### [[已推送]聊一下个人博客从0到200W浏览量增长过程-不忘初心,继续前行](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358364&idx=1&sn=bafd9ca5868fd14945099876c879dc51#rd)
+
+>作者：[江清清](http://www.lcode.org/react-native-blog-talk)<br/>
+>推送时间:2016-08-21
+
+*     今天聊一下React Native专题博客(lcode.org)的一路走来的故事...
+
+<hr/>
+
+##### [[已推送][React Native专题]初探:Redux的基本使用方式-炒鸡清晰](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358361&idx=1&sn=426fbf863a90ef86468a7177a0626cde#rd)
+
+>作者：[hiphonezhu](http://www.jianshu.com/p/f1a3c7845bb9)<br/>
+>推送时间:2016-08-20
+
+*     本文主要通过一个实例演示Redux的基本使用,力求让读者最快使用。
+
+<hr/>
+
 ##### [[已推送]React Native开源项目-云翻译客户端](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358347&idx=1&sn=97c7e046b6e92c895b4d4987f034094f#rd)
 
 >作者：[eesc88](https://github.com/eesc88/programmer)<br/>
