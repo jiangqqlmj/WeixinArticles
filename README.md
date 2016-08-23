@@ -8,6 +8,15 @@
 
 ## 已推送文章列表
 
+##### [[已推送]React Native开发技术周报第十九期-热荐Reading作者曹大大录制的入门到实战视频教程](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358370&idx=1&sn=24f6e89d80f1e28ddf289ff503132d9f#rd)
+
+>作者：[江清清](http://www.lcode.org/react-native-week-issue19/)<br/>
+>推送时间:2016-08-23
+
+*     本期热推React Native & Redux专题技术文章,大大和李宁老师教学视频...
+
+<hr/>
+
 ##### [[已推送]聊一下个人博客从0到200W浏览量增长过程-不忘初心,继续前行](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358364&idx=1&sn=bafd9ca5868fd14945099876c879dc51#rd)
 
 >作者：[江清清](http://www.lcode.org/react-native-blog-talk)<br/>
